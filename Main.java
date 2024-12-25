@@ -3,9 +3,7 @@
 
 // Person Class
 class Person {
-    // Encapsulating the name and age
-    // only approachable and used using
-    // methods defined
+    
     private String name;
     private int age;
 
